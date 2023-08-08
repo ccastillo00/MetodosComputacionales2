@@ -1,6 +1,6 @@
 # Metodos Computacionales 2
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/MetodosComputacionales2Temp/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/MetodosComputacionales2/HEAD)
 
 Material del curso de Métodos Computacionales 2 de Uniandes 2023 20
 
