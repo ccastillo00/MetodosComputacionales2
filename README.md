@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/MetodosComputacionales2Temp/HEAD)
 
-Material del curso de Métodos Computacionales 2 de Uniandes 2022 20
+Material del curso de Métodos Computacionales 2 de Uniandes 2023 20
 
 > Nota: el material aquí publicado es basado del [proyecto académico de enseñanza de Física Computacional [ComputoCienciasUniandes]](http://computocienciasuniandes.github.io/) liderado por el Profesor Jaime Ernesto Forero
 
